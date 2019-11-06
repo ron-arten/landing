@@ -1,0 +1,40 @@
+.banner {
+  background-image: url(../../images/paint.jpg);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  height: 100px;
+}
+.container {
+  width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.container h1 {
+  font-size: 50px;
+  color: white;
+  font-family: 'Francois One', sans-serif;
+  text-shadow: 1px 2px 2px gray;
+}
+
+.container h2 {
+  text-align: center;
+}
+.container p {
+  margin-bottom: 40px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
+}
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #FF6347;
+  margin-top: 10px;
+}
+.fa-icon {
+  padding: 5px;
+  font-size: 30px;
+}
